@@ -13,7 +13,7 @@ class ClickyGame extends Component {
     navMsgColor: "",
 
     // contains intro, success, and failure message
-    navMessage: "Click image to begin!",
+    navMessage: "Click on an image to begin!",
 
     // contains an array of image urls
     allCharacters: this.shuffleArray(),
